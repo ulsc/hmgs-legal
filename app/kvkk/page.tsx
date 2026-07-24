@@ -45,7 +45,9 @@ export default function KvkkPage() {
           </li>
           <li>
             <strong>Analiz, performans ve hata bilgileri:</strong> açık onay
-            verilmesi hâlinde ürünün geliştirilmesi ve hataların giderilmesi.
+            verilmesi hâlinde uygulama kullanımı, cihaz/uygulama tanıları ve IP
+            adresinden çıkarılan yaklaşık ülke veya bölge üzerinden ürünün
+            geliştirilmesi ve hataların giderilmesi.
           </li>
           <li>
             <strong>İletişim bilgileri:</strong> destek talebi gönderildiğinde

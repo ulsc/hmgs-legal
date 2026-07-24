@@ -62,8 +62,9 @@ export default function PrivacyPage() {
         <p>
           Açık onayın sonrasında Firebase Analytics, Crashlytics ve Performance
           aracılığıyla ekran/özellik kullanımı, yaklaşık performans ölçümleri,
-          hata kayıtları, uygulama sürümü ve anonim uygulama kimliği
-          işlenebilir. Bu koleksiyon, onay vermeden önce kapalıdır.
+          hata kayıtları, uygulama sürümü, anonim uygulama/cihaz kimliği ve IP
+          adresinden çıkarılabilen yaklaşık ülke veya bölge bilgisi işlenebilir.
+          Bu koleksiyon, onay vermeden önce kapalıdır.
         </p>
 
         <h3>Destek ve içerik bildirimleri</h3>
